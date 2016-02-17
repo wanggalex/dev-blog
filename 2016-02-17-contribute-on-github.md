@@ -1,6 +1,6 @@
 
 # 在 GitHub 上贡献开源项目的一般步骤
-
+yes
 在正确的场合，以正确的方式表达、参与。
 
 作者：[@nixzhu](https://twitter.com/nixzhu)
